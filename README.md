@@ -149,8 +149,6 @@ As ondas gravitacionais permitem detectar colisões de objetos invisíveis que n
 
 - [Mapa mental](materiais/mapa-mental.png)
 - [Slides](materiais/slides.pdf)
-- [Guia de estudos](materiais/guia-de-estudos.pdf)
-- Resumo em áudio: adicione aqui se o download estiver disponível.
 
 ## Link do notebook
 
