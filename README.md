@@ -168,7 +168,6 @@ gemini-notebook-buracos-negros/
 │   └── ...
 └── materiais/
     ├── mapa-mental.png
-    ├── slides.pdf
-    └── guia-de-estudos.pdf
+    └── slides.pdf
 ```
 
